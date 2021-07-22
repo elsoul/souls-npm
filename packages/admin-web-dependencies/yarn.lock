@@ -1025,17 +1025,17 @@ i18next-browser-languagedetector@6.1.2:
   dependencies:
     "@babel/runtime" "^7.14.6"
 
-i18next-http-backend@1.2.6:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/i18next-http-backend/-/i18next-http-backend-1.2.6.tgz#80b12e8b207814aebb3b8a74c4487dd156973bee"
-  integrity sha512-NeNNRofj+rR6Cw+/Elf8bCVaCiqWg2Y6F+CrmDvHiPzAW2Dtxxlk8O0na2et/rr1n3ST6rJr4nMXH/QOFuhaeA==
+i18next-http-backend@1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/i18next-http-backend/-/i18next-http-backend-1.2.7.tgz#a5fd22014e83526f9e5c070cceb63fe988b25afd"
+  integrity sha512-L/yQIX2SxZxIVlkNPd82hIgCr66zqbp068D6+LZrZdrFqGOdyWsslclxKu9t+RfWl5nP9MfX1y7gKVC8TNOtUw==
   dependencies:
     cross-fetch "3.1.4"
 
-i18next@20.3.3:
-  version "20.3.3"
-  resolved "https://registry.yarnpkg.com/i18next/-/i18next-20.3.3.tgz#e3fdae045f9f0893e74826ce224715e43c62862b"
-  integrity sha512-tx9EUhHeaipvZ5pFLTaN9Xdm5Ssal774MpujaTA1Wv/ST/1My5SnoBmliY1lOpyEP5Z51Dq1gXifk/y4Yt3agQ==
+i18next@20.3.4:
+  version "20.3.4"
+  resolved "https://registry.yarnpkg.com/i18next/-/i18next-20.3.4.tgz#5e05524a8baa17bbf99b89cdb427d3a68406aa64"
+  integrity sha512-xj3A2tGvwdWI1QBDKKFLOT/n4QImm+tN8QvHBIaTU/zN4YWK1NlpWPZN6mKzd3G1Wd7J1jU5BkFeaKQWHpf05w==
   dependencies:
     "@babel/runtime" "^7.12.0"
 
@@ -1325,10 +1325,10 @@ react-easy-swipe@^0.0.21:
   dependencies:
     prop-types "^15.5.8"
 
-react-hook-form@7.11.0:
-  version "7.11.0"
-  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.11.0.tgz#9cae5e21ba1c1a98a40c65cfee07db9e677edc21"
-  integrity sha512-aJVvL5VV6JqUWvwx9fbrhc6La83aQAfXfqQr+TD/sWy3LPdqYBgBIHBt8WAKWzKRm3g29YV2CLfn4wkhNB9b+g==
+react-hook-form@7.11.1:
+  version "7.11.1"
+  resolved "https://registry.yarnpkg.com/react-hook-form/-/react-hook-form-7.11.1.tgz#936f8a14bdf02b0791c2130d7c78c49c10e6de09"
+  integrity sha512-lBt428oU03dNUF5qZy5xqEdANaH3L/ilKWQS2t8wD6zF7FypOv46kEkZmg+oHf3n2xgeGYJgbMIGtYExsfKJ8A==
 
 react-i18next@11.11.3:
   version "11.11.3"
@@ -1379,10 +1379,10 @@ react-relay@11.0.2:
     nullthrows "^1.1.1"
     relay-runtime "11.0.2"
 
-react-responsive-carousel@3.2.19:
-  version "3.2.19"
-  resolved "https://registry.yarnpkg.com/react-responsive-carousel/-/react-responsive-carousel-3.2.19.tgz#ded0d5888b0a605cf28f0db3fad04bbbb2ff3616"
-  integrity sha512-lOO6CscsxnQoNnrmLXNXu7u3U0znY44jGloX9Zayki9+OdUs63YXypSgV7dzaTmlem4SXy4rIXBR8+gjA9zyxg==
+react-responsive-carousel@3.2.20:
+  version "3.2.20"
+  resolved "https://registry.yarnpkg.com/react-responsive-carousel/-/react-responsive-carousel-3.2.20.tgz#767e8c4a352e8bf60498657081a3743274cda8e4"
+  integrity sha512-uSiNzZOqvn6f40y0zbXyUMuf9Ypgy4UUczOPdUnWfT2vAL2tCeSBQ7viN8GgwiHz4UfUqoAvDbjvbbZFe3TpHA==
   dependencies:
     classnames "^2.2.5"
     prop-types "^15.5.8"
